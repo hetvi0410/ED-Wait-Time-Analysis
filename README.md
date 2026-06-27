@@ -4,9 +4,8 @@
 This project analyzes Emergency Department (ED) performance across multiple hospitals, focusing on wait times, patient flow, staffing, occupancy, and operational risk.  
 The goal is to identify bottlenecks, quantify delays, and provide actionable recommendations to improve ED efficiency.
 
-# Dashboard Link: 
+### Dashboard Link: 
 https://app.powerbi.com/groups/59081ef8-bae4-4c3b-a9dd-db597f653281/reports/b9a0be1d-7584-43d2-be82-ab3f218d7b26/24687037576909208759?experience=power-bi
----
 
 ## Project Overview
 This end‑to‑end analytics project covers the full data lifecycle:
