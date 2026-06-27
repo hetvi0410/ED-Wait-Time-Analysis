@@ -1,0 +1,8 @@
+hospital_id,hospital_name,city,province,hospital_type
+H01,Toronto General Hospital,Toronto,ON,Teaching
+H02,Brampton Civic Hospital,Brampton,ON,Community
+H03,Hamilton General Hospital,Hamilton,ON,Regional
+H04,Ottawa Civic Hospital,Ottawa,ON,Community
+H05,London Health Sciences Centre,London,ON,Teaching
+H06,Mississauga Hospital,Mississauga,ON,Community
+H07,Etobicoke General Hospital,Etobicoke,ON,Community
