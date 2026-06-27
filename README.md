@@ -170,14 +170,13 @@ Recommendations:
 
 ## Dashboard Screenshots 
 
+![Executive Overview](images/Page 1 - Executive Overview.png)
 
+![Patient Flow](images/Page 2 - Patient Flow Analysis.png)
 
+![Operational Performance](images/Page 3 - Operational Performance (Staffing & Occupancy).png)
 
-
-
-
-
-
+![Insights](images/Page 4 - Insights & Recommendations.png)
 
 ---
 
