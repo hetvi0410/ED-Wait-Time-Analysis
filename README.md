@@ -142,30 +142,28 @@ Recommendations:
 ## Folder Structure
 
     /data
-    er_visits_clean
-    er_hourly_metrics_clean
-    hospitals_clean
-    physicians_clean
-    nurses_clean
-    beds_clean
+        raw/
+        clean/
+
+    /python
+        data_cleaning.py
 
     /sql
-    01_schema
-    02_bulk_insert
-    03_data_cleaning
-    04_analysis_queries
+        01_schema.sql
+        02_bulk_insert.sql
+        03_data_cleaning.sql
+        04_analysis_queries.sql
 
     /powerbi
-    ER Wait Time Analysis.pbix
+        ER Wait Time Analysis.pbix
 
     /images
-    Page 1 - Executive Overview
-    Page 2 - Patient Flow Analysis
-    Page 3 - Operational Performance (Staffing & Occupancy)
-    Page 4 - Insights & Recommendations
+        Page 1 - Executive Overview.png
+        Page 2 - Patient Flow Analysis.png
+        Page 3 - Operational Performance.png
+        Page 4 - Insights & Recommendations.png
 
     README.md
-
 ---
 
 ## Dashboard Screenshots 
