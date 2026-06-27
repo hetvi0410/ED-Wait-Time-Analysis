@@ -170,13 +170,25 @@ Recommendations:
 
 ## Dashboard Screenshots 
 
-![Executive Overview](images/Page 1 - Executive Overview.png)
+### **Page 1 - Executive Overview**
+||
+|---|
+![Executive Overview](https://github.com/hetvi0410/ED-Wait-Time-Analysis/blob/main/images/Page%201%20-%20Executive%20Overview.png)
 
-![Patient Flow](images/Page 2 - Patient Flow Analysis.png)
+### **Page 2 - Patient Flow Analysis**
+||
+|---|
+![Patient Flow](https://github.com/hetvi0410/ED-Wait-Time-Analysis/blob/main/images/Page%202%20-%20Patient%20Flow%20Analysis.png)
 
-![Operational Performance](images/Page 3 - Operational Performance (Staffing & Occupancy).png)
+### **Page 3 - Operational Performance (Staffing & Occupancy)**
+||
+|---|
+![Operational Performance](https://github.com/hetvi0410/ED-Wait-Time-Analysis/blob/main/images/Page%203%20-%20Operational%20Performance%20(Staffing%20%26%20Occupancy).png)
 
-![Insights](images/Page 4 - Insights & Recommendations.png)
+### **Page 4 - Insights & Recommendations**
+||
+|---|
+![Insights](https://github.com/hetvi0410/ED-Wait-Time-Analysis/blob/main/images/Page%204%20-%20Insights%20%26%20Recommendations.png)
 
 ---
 
